@@ -1,4 +1,4 @@
-# Portfolio-Sample-2
+# Final Portfolio Sample
 Personal Portfolio. Built with the Bootstrap framework.
 
 # What I learnt
