@@ -5,3 +5,7 @@ Personal Portfolio. Built with the Bootstrap framework.
 
 1. Designing a responsive portfolio using flexbox( a CSS3 web layout model) and grid.
 2. Using the animate on scroll (aos) library to promote user experience.  
+
+# Explore
+
+https://njerimaureen182.github.io/Personal-Portfolio/
