@@ -425,7 +425,7 @@ li{
 #up .fa-arrow-up{
 	color: rgba(16, 29, 44, .85);
 	font-size: 2rem;
-	margin: -3.8px;
+	margin: -5.1px;
 }
 
 /*chevron animation start*/
@@ -566,9 +566,9 @@ li{
 	margin-top: 10px;
 }
 
-hr{
+/* hr{
 	border-top: 1px solid rgba(169, 169, 169, .2);
-}
+} */
 .copyright{
 	text-align: center;
 	position: relative;
