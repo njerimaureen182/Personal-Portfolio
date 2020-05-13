@@ -176,7 +176,7 @@ header{
 .about-details p{
 	font-family: 'Raleway', sans-serif;
 	letter-spacing: .2rem;
-	font-size: 1.2rem;
+	font-size: 1.05rem;
 }
 /* about section end */
 
@@ -618,13 +618,8 @@ header{
 }
 /*chevron animation end*/
 
-/* hr{
-	border-top: 1px solid rgba(169, 169, 169, .2);
-} */
 .copyright{
 	font-size: 1.05rem;
-	position: relative;
-	color: rgba(169, 169, 169, 1);
 	font-family: 'Raleway', sans-serif;
 	letter-spacing: .2rem;
 }
