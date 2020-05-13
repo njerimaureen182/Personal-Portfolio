@@ -162,7 +162,7 @@ header{
 	color: #cebb9e;
 	margin-left: -40px;
 	border-radius: 50px;
-	box-shadow: 1px 2px 2px rgba(16, 29, 44, 1);
+	box-shadow: 3px 2px 2px rgba(16, 29, 44, 1);
 }
 
 /* about section start */
@@ -274,6 +274,28 @@ header{
 	font-size: 1rem;
 }
 
+.portfolio-img.one{
+	margin-top: 80px;
+}
+
+.portfolio-img.two {
+	margin-top: 100px;
+}
+
+.portfolio-description.two h1,
+.portfolio-description.two h6,
+.portfolio-description.two p{
+	margin-left: 35px;
+}
+
+.portfolio-description.three h1{
+	margin-left: -50px;
+}
+
+.portfolio-description.four, .portfolio-img.five, .portfolio-img.seven{
+	margin-left: 40px;
+}
+
 .portfolio-description.five h1{
 	margin-left: -20px;
 }
@@ -303,8 +325,27 @@ header{
 	margin-left: -100px;
 }
 
+.portfolio-description.seven{
+	margin-top: 50px;
+}
 
-.cta.one, .cta.two, .cta.three, .cta.four, .cta.five, .cta.seven, .cta.eight, .cta.nine {
+.portfolio-img.eight{
+	margin-top: 100px;
+}
+
+.cta.two{
+	display: inline-block;
+	margin-top: .5rem;
+	font-size: 1.3rem;
+	text-transform: uppercase;
+	color: #cebb9e; 
+	font-family: 'Smythe', sans-serif;
+	letter-spacing: .3rem;
+	transition: color 650ms;
+	margin-left: 38px;
+}
+
+.cta.one, .cta.three, .cta.four, .cta.five, .cta.seven, .cta.eight, .cta.nine {
 	display: inline-block;
 	margin-top: .5rem;
 	font-size: 1.3rem;
@@ -536,7 +577,7 @@ header{
 }
 
 .say-hello a:hover{
-	color: #0077B5;
+	color: #1DA1F2;
 	transition: ease-in 650ms;
 }
 .say-hello p{
@@ -549,8 +590,8 @@ header{
 
 #up{
 	position: absolute;
-	bottom: -9850px;
-	/* transform: translateY(-10px); */
+	/* bottom: -9730px; */
+	transform: translateY(-35px);
 	right: 25px;
 	display: flex;
 	animation: pulse 2s infinite;
@@ -581,13 +622,16 @@ header{
 	border-top: 1px solid rgba(169, 169, 169, .2);
 } */
 .copyright{
-	text-align: center;
-	font-size: 1rem;
+	font-size: 1.05rem;
 	position: relative;
 	color: rgba(169, 169, 169, 1);
-	margin:1.5rem 0 0 0;
 	font-family: 'Raleway', sans-serif;
 	letter-spacing: .2rem;
 }
 /*footer end*/
+
+
+/* media queries start */
+/* media queries end */
+
 
